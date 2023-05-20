@@ -2,5 +2,5 @@
 Plotting some data about the diets of Red Squirrels
 
 ## To Do:
-- [ ] Replicate Chart in question
-- [ ] Make it look Nice
+- [x] Replicate Chart in question
+- [x] Make it look Nice
